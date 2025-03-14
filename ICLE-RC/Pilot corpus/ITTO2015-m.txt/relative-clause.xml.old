@@ -6,7 +6,7 @@
     <complete>100%</complete>
   </header>
     <segments>
-      <segment id='1' start='1053' end='1058' features='rc;italian;ita-3;male;wh-word;where;subject-r;subj-head-n;adjunct-m;adjunct-other-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='1' start='1053' end='1058' features='rc;italian;ita-3;male;wh-word;where;suplementary;abstract-entity;embed-no;extrapose-no;subject-r;in-subj-comp;adjunct-m' state='active'/>
       <segment id='2' start='1377' end='1381' features='rc;italian;ita-3;male;that;direct-object-r;dir-obj-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='3' start='1464' end='1469' features='rc;italian;ita-3;male;wh-word;which;direct-object-r;dir-obj-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='4' start='1607' end='1612' features='rc;italian;ita-3;male;wh-word;which;direct-object-r;in-dir-obj-comp;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>

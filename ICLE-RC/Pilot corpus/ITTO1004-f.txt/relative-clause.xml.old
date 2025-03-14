@@ -14,11 +14,11 @@
       <segment id='6' start='1691' end='1695' features='rc;italian;ita-3;female;that;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='7' start='1737' end='1768' features='rc;italian;ita-3;female;zero;direct-object-r;dir-obj-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='8' start='2055' end='2060' features='rc;italian;ita-3;female;wh-word;which;subject-r;subj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
-      <segment id='10' start='2127' end='2130' features='rc;italian;ita-3;female;wh-word;why;direct-object-r;dir-obj-head-n;adjunct-m;adjunct-other-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='10' start='2127' end='2130' features='rc;italian;ita-3;female;wh-word;why;direct-object-r;dir-obj-head-n;adjunct-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='9' start='2229' end='2233' features='rc;italian;ita-3;female;that;direct-object-r;dir-obj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='11' start='2412' end='2474' features='rc;italian;ita-3;female;zero;predicate-complement-r;pred-comp-np;in-pred-comp-np-comp;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='12' start='2714' end='2728' features='rc;italian;ita-3;female;zero;direct-object-r;dir-obj-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
-      <segment id='13' start='3011' end='3014' features='rc;italian;ita-3;female;wh-word;why;subject-r;subj-head-n;adjunct-m;adjunct-other-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='13' start='3011' end='3014' features='rc;italian;ita-3;female;wh-word;why;subject-r;subj-head-n;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='14' start='3750' end='3755' features='rc;italian;ita-3;female;wh-word;which;direct-object-r;dir-obj-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
     </segments>
 </document>

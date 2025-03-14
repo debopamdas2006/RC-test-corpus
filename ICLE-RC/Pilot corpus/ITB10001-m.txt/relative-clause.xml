@@ -14,5 +14,6 @@
       <segment id='5' start='1760' end='1763' features='rc;italian;ita-1;male;that;predicate-complement-r;pred-comp-np;in-pred-comp-np-comp;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='6' start='2472' end='2476' features='rc;italian;ita-1;male;that;direct-object-r;dir-obj-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='7' start='2657' end='2661' features='rc;italian;ita-1;male;that;adjunct-r;adjunct;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='9' start='3013' end='3020' features='rc;italian;ita-1;male;zero;direct-object-r;dir-obj-head-n;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
     </segments>
 </document>

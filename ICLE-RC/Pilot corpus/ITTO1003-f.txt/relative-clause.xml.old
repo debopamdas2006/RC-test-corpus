@@ -11,6 +11,6 @@
       <segment id='3' start='1253' end='1256' features='rc;italian;ita-3;female;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
       <segment id='4' start='2277' end='2288' features='rc;italian;ita-3;female;zero;adjunct-r;in-adjunct;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='5' start='2377' end='2380' features='rc;italian;ita-3;female;wh-word;who;subject-r;subj-head-n;subject-m;suplementary;entity;human;embed-no;extrapose-no' state='active'/>
-      <segment id='6' start='2931' end='2936' features='rc;italian;ita-3;female;wh-word;where;predicate-complement-r;pred-comp-adjp;in-pred-comp-adjp-comp;adjunct-m;adjunct-other-m;suplementary;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='2931' end='2936' features='rc;italian;ita-3;female;wh-word;where;predicate-complement-r;pred-comp-adjp;in-pred-comp-adjp-comp;adjunct-m;suplementary;entity;non-human;embed-no;extrapose-no' state='active'/>
     </segments>
 </document>

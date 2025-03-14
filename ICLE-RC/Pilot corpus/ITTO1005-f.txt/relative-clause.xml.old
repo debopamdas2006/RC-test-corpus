@@ -11,7 +11,7 @@
       <segment id='3' start='200' end='205' features='rc;italian;ita-3;female;wh-word;which;predicate-complement-r;pred-comp-adjp;in-pred-comp-adjp-comp;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='4' start='1019' end='1023' features='rc;italian;ita-3;female;that;adjunct-r;in-adjunct;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='5' start='1099' end='1103' features='rc;italian;ita-3;female;that;adjunct-r;in-adjunct;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
-      <segment id='6' start='1665' end='1668' features='rc;italian;ita-3;female;wh-word;why;subject-r;subj-head-n;adjunct-m;adjunct-other-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='1665' end='1668' features='rc;italian;ita-3;female;wh-word;why;subject-r;subj-head-n;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='7' start='1847' end='1850' features='rc;italian;ita-3;female;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
       <segment id='8' start='1871' end='1874' features='rc;italian;ita-3;female;wh-word;who;direct-object-r;dir-obj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
       <segment id='9' start='2132' end='2137' features='rc;italian;ita-3;female;wh-word;which;adjunct-r;adjunct;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>

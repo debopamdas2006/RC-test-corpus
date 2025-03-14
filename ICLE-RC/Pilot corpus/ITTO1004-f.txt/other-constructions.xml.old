@@ -9,5 +9,6 @@
       <segment id='1' start='609' end='612' features='other-constructions;italian;relative-there' state='active'/>
       <segment id='2' start='1827' end='1831' features='other-constructions;italian;fused-relative;fused-non-how' state='active'/>
       <segment id='3' start='3225' end='3229' features='other-constructions;italian;fused-relative;fused-non-how' state='active'/>
+      <segment id='4' start='3989' end='3993' features='other-constructions;italian;pseudo-cleft' state='active'/>
     </segments>
 </document>

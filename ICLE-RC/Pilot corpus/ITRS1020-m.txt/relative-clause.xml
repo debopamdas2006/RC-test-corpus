@@ -8,7 +8,7 @@
     <segments>
       <segment id='1' start='584' end='588' features='rc;italian;ita-2;male;that;direct-object-r;dir-obj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='2' start='850' end='855' features='rc;italian;ita-2;male;wh-word;which;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;suplementary;entity;non-human;embed-no;extrapose-no' state='active'/>
-      <segment id='3' start='925' end='930' features='rc;italian;ita-2;male;wh-word;which;predicate-complement-r;pred-comp-np;pred-comp-head-n;adjunct-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='925' end='930' features='rc;italian;ita-2;male;wh-word;which;predicate-complement-r;pred-comp-np;pred-comp-head-n;adjunct-m;abstract-entity;embed-no;extrapose-no;integrated' state='active'/>
       <segment id='4' start='1850' end='1855' features='rc;italian;ita-2;male;wh-word;which;adjunct-r;in-adjunct;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='5' start='2690' end='2695' features='rc;italian;ita-2;male;wh-word;which;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
       <segment id='6' start='3075' end='3080' features='rc;italian;ita-2;male;wh-word;which;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
