@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIJO1022-m.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='158' end='163' features='rc;finnish;fin-2;male;wh-word;which;adjunct-r;in-adjunct;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='525' end='528' features='rc;finnish;fin-2;male;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='1859' end='1864' features='rc;finnish;fin-2;male;wh-word;which;direct-object-r;dir-obj-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='2061' end='2066' features='rc;finnish;fin-2;male;wh-word;which;direct-object-r;dir-obj-head-n;subject-m;unsure;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='2204' end='2209' features='rc;male;finnish;fin-2;wh-word;which;clause-r;suplementary;proposition;embed-no;gen-subj-det-m;extrapose-yes' state='active'/>
+      <segment id='6' start='3646' end='3667' features='rc;finnish;fin-2;male;zero;direct-object-r;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no;dir-obj-head-n' state='active'/>
+      <segment id='7' start='3700' end='3704' features='rc;finnish;fin-2;male;that;direct-object-r;dir-obj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='8' start='4231' end='4236' features='rc;finnish;fin-2;male;wh-word;where;direct-object-r;adjunct-m;suplementary;abstract-entity;embed-no;extrapose-no;dir-obj-head-n;adjunct-other-m' state='active'/>
+      <segment id='9' start='5239' end='5243' features='rc;finnish;fin-2;male;that;predicate-complement-r;pred-comp-np;in-pred-comp-np-comp;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='10' start='5373' end='5380' features='rc;finnish;fin-2;male;zero;predicate-complement-r;pred-comp-np;pred-comp-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='11' start='5489' end='5494' features='rc;finnish;fin-2;male;wh-word;which;subject-m;suplementary;abstract-entity;embed-no;extrapose-no;adjunct-r;adjunct' state='active'/>
+      <segment id='12' start='5549' end='5552' features='rc;finnish;fin-2;male;wh-word;who;subject-r;in-subj-comp;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

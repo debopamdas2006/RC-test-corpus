@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIJO1002-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='816' end='821' features='rc;finnish;fin-2;female;wh-word;which;direct-object-r;dir-obj-head-n;integrated;abstract-entity;embed-no;extrapose-no;adjunct-m' state='active'/>
+      <segment id='2' start='1313' end='1318' features='rc;finnish;fin-2;female;wh-word;which;predicate-complement-r;pred-comp-np;pred-comp-head-n;integrated;abstract-entity;embed-no;extrapose-no;adjunct-m' state='active'/>
+      <segment id='3' start='3876' end='3881' features='rc;finnish;fin-2;female;wh-word;which;clause-r;subject-m;suplementary;proposition;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='4014' end='4019' features='rc;finnish;fin-2;female;wh-word;adjunct-r;in-adjunct;integrated;abstract-entity;embed-no;extrapose-no;which;adjunct-m' state='active'/>
+      <segment id='5' start='4256' end='4261' features='rc;finnish;fin-2;female;wh-word;which;subject-m;suplementary;abstract-entity;embed-no;extrapose-no;adjunct-r;in-adjunct' state='active'/>
+      <segment id='6' start='5282' end='5287' features='rc;finnish;fin-2;female;wh-word;which;clause-r;subject-m;suplementary;proposition;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIJO1029-m.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='140' end='144' features='other-constructions;fused-relative;finnish;fused-non-how' state='active'/>
+      <segment id='2' start='427' end='430' features='other-constructions;relative-there;finnish' state='active'/>
+      <segment id='4' start='805' end='810' features='other-constructions;relative-there;finnish' state='active'/>
+      <segment id='5' start='1092' end='1097' features='other-constructions;relative-there;finnish' state='active'/>
+      <segment id='3' start='4092' end='4096' features='other-constructions;pseudo-cleft;finnish' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/POSI1003-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='625' end='630' features='rc;polish;pol-3;female;wh-word;which;adjunct-r;in-adjunct;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='1109' end='1141' features='rc;polish;pol-3;female;zero;direct-object-r;in-dir-obj-comp;dir-obj-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='1903' end='1906' features='rc;polish;pol-3;female;wh-word;who;predicate-complement-r;pred-comp-np;in-pred-comp-np-comp;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='2258' end='2263' features='rc;polish;pol-3;female;wh-word;which;subject-m;suplementary;proposition;embed-no;subject-r;subj-head-n;extrapose-yes' state='active'/>
+      <segment id='5' start='2953' end='2963' features='rc;polish;pol-3;female;zero;adjunct-r;in-adjunct;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

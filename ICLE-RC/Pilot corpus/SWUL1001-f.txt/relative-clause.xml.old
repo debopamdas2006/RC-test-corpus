@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/SWUL1001-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='1104' end='1137' features='rc;swedish;swe-2;female;zero;subject-r;subj-head-n;dir-object-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='1' start='1497' end='1501' features='rc;swedish;swe-2;female;that;adjunct-r;in-adjunct;subject-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='2106' end='2109' features='rc;swedish;swe-2;female;wh-word;who;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='2410' end='2413' features='rc;swedish;swe-2;female;wh-word;who;direct-object-r;dir-obj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIJO1001-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='4779' end='4801' features='other-constructions;fused-relatives;finnish;fused-non-how' state='active'/>
+    </segments>
+</document>

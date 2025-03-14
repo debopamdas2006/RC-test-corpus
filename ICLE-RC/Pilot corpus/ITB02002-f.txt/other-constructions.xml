@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/ITB02002-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='64' end='69' features='other-constructions;italian;fused-relative;fused-non-how' state='active'/>
+      <segment id='2' start='74' end='78' features='other-constructions;italian;fused-relative;fused-non-how' state='active'/>
+      <segment id='3' start='981' end='986' features='other-constructions;italian;relative-there' state='active'/>
+    </segments>
+</document>

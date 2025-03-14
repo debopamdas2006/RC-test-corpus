@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIJY1001-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='236' end='240' features='rc;finnish;fin-3;female;wh-word;when;adjunct-r;in-adjunct;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no;adjunct-other-m' state='active'/>
+      <segment id='1' start='455' end='459' features='rc;finnish;fin-3;female;that;adjunct-r;adjunct;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='972' end='976' features='rc;finnish;fin-3;female;that;direct-object-r;in-dir-obj-comp;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='1115' end='1120' features='rc;finnish;fin-3;female;wh-word;which;integrated;abstract-entity;embed-no;extrapose-no;adjunct-r;in-adjunct;adjunct-m;adjunct-other-m' state='active'/>
+      <segment id='5' start='1460' end='1463' features='rc;finnish;fin-3;female;wh-word;who;adjunct-r;in-adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='1831' end='1841' features='rc;finnish;fin-3;female;zero;adjunct-r;in-adjunct;integrated;abstract-entity;embed-no;extrapose-no;dir-obj-m' state='active'/>
+      <segment id='7' start='2129' end='2132' features='rc;finnish;fin-3;female;wh-word;who;direct-object-r;subject-m;integrated;entity;human;embed-no;extrapose-no;dir-obj-head-n' state='active'/>
+      <segment id='8' start='2294' end='2298' features='rc;finnish;fin-3;female;that;adjunct-r;adjunct;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

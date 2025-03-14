@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/POPZ1003-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='1109' end='1114' features='rc;polish;pol-2;female;wh-word;where;adjunct-r;adjunct;adjunct-m;adjunct-other-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='1387' end='1390' features='rc;polish;pol-2;female;wh-word;who;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='1825' end='1831' features='rc;polish;pol-2;female;zero;direct-object-r;in-dir-obj-comp;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='3288' end='3291' features='rc;polish;pol-2;female;wh-word;who;adjunct-r;adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

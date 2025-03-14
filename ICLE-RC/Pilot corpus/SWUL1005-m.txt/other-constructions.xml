@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/SWUL1005-m.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='869' end='872' features='other-constructions;fused-relative;swedish;fused-how' state='active'/>
+      <segment id='2' start='1081' end='1085' features='other-constructions;so;swedish;so-that' state='active'/>
+      <segment id='4' start='1237' end='1239' features='other-constructions;swedish;so;so-zero' state='active'/>
+      <segment id='3' start='2320' end='2328' features='other-constructions;fused-relative;swedish;fused-non-how' state='active'/>
+    </segments>
+</document>

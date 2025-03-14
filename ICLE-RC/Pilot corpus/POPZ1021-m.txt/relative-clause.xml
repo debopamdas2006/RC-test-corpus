@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/POPZ1021-m.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='123' end='128' features='rc;polish;pol-2;male;wh-word;which;predicate-complement-r;pred-comp-np;in-pred-comp-np-comp;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='836' end='841' features='rc;polish;pol-2;male;wh-word;which;clause-r;subject-m;suplementary;proposition;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='948' end='953' features='rc;polish;pol-2;male;wh-word;which;direct-object-r;dir-obj-head-n;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='1594' end='1599' features='rc;polish;pol-2;male;wh-word;which;direct-object-r;in-dir-obj-comp;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='2384' end='2389' features='rc;polish;pol-2;male;wh-word;which;adjunct-r;adjunct;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='2796' end='2801' features='rc;polish;pol-2;male;wh-word;which;direct-object-r;dir-obj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='7' start='2820' end='2828' features='rc;polish;pol-2;male;zero;adjunct-r;in-adjunct;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='8' start='3401' end='3406' features='rc;polish;pol-2;male;wh-word;which;predicate-complement-r;pred-comp-np;in-pred-comp-np-comp;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

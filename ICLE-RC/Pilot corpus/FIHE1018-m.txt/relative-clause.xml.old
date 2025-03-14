@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIHE1018-m.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='427' end='431' features='rc;finnish;fin-1;male;that;direct-object-r;dir-obj-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='770' end='783' features='rc;finnish;fin-1;male;zero;direct-object-r;dir-obj-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='907' end='911' features='rc;finnish;fin-1;male;that;adjunct-r;adjunct;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='1002' end='1006' features='rc;finnish;fin-1;male;that;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no;predicate-complement-r;pred-comp-np;pred-comp-head-n' state='active'/>
+      <segment id='5' start='1666' end='1670' features='rc;finnish;fin-1;male;that;direct-object-r;dir-obj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='2305' end='2312' features='rc;finnish;fin-1;male;zero;subject-r;subj-head-n;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no;adjunct-other-m' state='active'/>
+      <segment id='7' start='2666' end='2670' features='rc;finnish;fin-1;male;that;subject-r;subj-head-n;subject-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='8' start='3244' end='3249' features='rc;finnish;fin-1;male;wh-word;which;adjunct-r;in-adjunct;integrated;abstract-entity;embed-no;extrapose-no;adjunct-m;adjunct-other-m' state='active'/>
+      <segment id='9' start='3856' end='3860' features='rc;finnish;fin-1;male;that;predicate-complement-r;subject-m;integrated;abstract-entity;embed-no;extrapose-no;pred-comp-np;pred-comp-head-n' state='active'/>
+      <segment id='12' start='5060' end='5064' features='rc;finnish;fin-1;male;that;subject-r;in-subj-comp;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-yes' state='active'/>
+      <segment id='10' start='5435' end='5439' features='rc;finnish;fin-1;male;that;adjunct-r;in-adjunct;subject-m;unsure;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='11' start='5499' end='5503' features='rc;finnish;fin-1;male;that;direct-object-r;in-dir-obj-comp;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

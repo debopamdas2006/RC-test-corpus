@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/ITTO1002-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='266' end='275' features='rc;italian;ita-3;female;zero;direct-object-r;in-dir-obj-comp;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='935' end='967' features='rc;italian;ita-3;female;zero;adjunct-r;in-adjunct;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='1104' end='1107' features='rc;italian;ita-3;female;wh-word;who;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;suplementary;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='1569' end='1574' features='rc;italian;ita-3;female;wh-word;where;predicate-complement-r;pred-comp-np;pred-comp-head-n;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='2033' end='2036' features='rc;italian;ita-3;female;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

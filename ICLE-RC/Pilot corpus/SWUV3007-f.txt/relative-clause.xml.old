@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/SWUV3007-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='230' end='233' features='rc;swedish;swe-3;female;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='619' end='624' features='rc;swedish;swe-3;female;wh-word;which;subject-m;suplementary;abstract-entity;embed-no;extrapose-no;direct-object-r;dir-obj-head-n' state='active'/>
+      <segment id='3' start='760' end='784' features='rc;swedish;swe-3;female;zero;adjunct-r;dir-obj-m;integrated;in-adjunct;embed-no;extrapose-no;entity;non-human' state='active'/>
+      <segment id='4' start='1004' end='1008' features='rc;swedish;swe-3;female;that;subject-r;subj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='1130' end='1135' features='rc;swedish;swe-3;female;wh-word;which;adjunct-m;suplementary;abstract-entity;embed-no;extrapose-no;adjunct-r;in-adjunct;adjunct-other-m' state='active'/>
+      <segment id='6' start='1415' end='1418' features='rc;swedish;swe-3;female;wh-word;who;adjunct-r;in-adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='7' start='2044' end='2065' features='rc;swedish;swe-3;female;zero;direct-object-r;dir-obj-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='8' start='2093' end='2098' features='rc;swedish;swe-3;female;wh-word;which;direct-object-r;dir-obj-head-n;adjunct-m;suplementary;abstract-entity;embed-no;extrapose-no;adjunct-other-m' state='active'/>
+      <segment id='9' start='2228' end='2233' features='rc;swedish;swe-3;female;wh-word;which;subject-r;subj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='10' start='2307' end='2311' features='rc;swedish;swe-3;female;wh-word;when;adjunct-r;adjunct;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no;adjunct-other-m' state='active'/>
+      <segment id='11' start='2455' end='2459' features='rc;swedish;swe-3;female;that;direct-object-r;dir-obj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='12' start='2985' end='2988' features='rc;swedish;swe-3;female;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='13' start='3255' end='3259' features='rc;swedish;swe-3;female;that;adjunct-r;in-adjunct;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

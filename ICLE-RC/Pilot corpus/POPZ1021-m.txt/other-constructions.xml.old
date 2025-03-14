@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/POPZ1021-m.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='564' end='568' features='other-constructions;polish;fused-relative;fused-non-how' state='active'/>
+      <segment id='2' start='1077' end='1081' features='other-constructions;polish;pseudo-cleft' state='active'/>
+      <segment id='3' start='1501' end='1505' features='other-constructions;polish;fused-relative;fused-non-how' state='active'/>
+      <segment id='4' start='1944' end='1947' features='other-constructions;polish;it-cleft' state='active'/>
+      <segment id='5' start='1972' end='1975' features='other-constructions;polish;it-cleft' state='active'/>
+      <segment id='6' start='2011' end='2014' features='other-constructions;polish;it-cleft' state='active'/>
+      <segment id='7' start='2531' end='2534' features='other-constructions;polish;relative-there' state='active'/>
+      <segment id='8' start='2578' end='2581' features='other-constructions;polish;relative-there' state='active'/>
+      <segment id='9' start='2770' end='2773' features='other-constructions;polish;relative-there' state='active'/>
+      <segment id='10' start='3259' end='3264' features='other-constructions;polish;it-cleft' state='active'/>
+    </segments>
+</document>

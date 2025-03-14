@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIHE1003-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='124' end='127' features='other-constructions;relative-there;finnish' state='active'/>
+      <segment id='1' start='1616' end='1619' features='other-constructions;fused-relatives;finnish;fused-how' state='active'/>
+      <segment id='4' start='4115' end='4118' features='other-constructions;relative-there;finnish' state='active'/>
+    </segments>
+</document>

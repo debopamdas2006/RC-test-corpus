@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIJY1001-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='1614' end='1619' features='other-constructions;fused-relative;finnish;fused-non-how' state='active'/>
+      <segment id='3' start='1693' end='1697' features='other-constructions;fused-relative;finnish;fused-non-how' state='active'/>
+      <segment id='4' start='2191' end='2195' features='other-constructions;fused-relative;finnish;fused-non-how' state='active'/>
+      <segment id='5' start='2568' end='2571' features='other-constructions;relative-there;finnish' state='active'/>
+    </segments>
+</document>

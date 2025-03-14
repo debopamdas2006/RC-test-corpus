@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/ITB02003-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='58' end='81' features='rc;italian;ita-1;female;zero;predicate-complement-r;pred-comp-np;pred-comp-head-n;integrated;embed-no;extrapose-no;abstract-entity;indir-obj-m' state='active'/>
+      <segment id='2' start='159' end='164' features='rc;italian;ita-1;female;wh-word;which;adjunct-r;in-adjunct;dir-obj-m;suplementary;embed-no;extrapose-no;abstract-entity' state='active'/>
+      <segment id='3' start='379' end='402' features='rc;italian;ita-1;female;zero;direct-object-r;dir-obj-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='785' end='792' features='rc;italian;ita-1;female;zero;adjunct-r;in-adjunct;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='1286' end='1290' features='rc;italian;ita-1;female;that;adjunct-r;in-adjunct;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='1786' end='1790' features='rc;italian;ita-1;female;that;subject-r;subj-head-n;subject-m;suplementary;entity;non-human;embed-no;extrapose-yes' state='active'/>
+    </segments>
+</document>

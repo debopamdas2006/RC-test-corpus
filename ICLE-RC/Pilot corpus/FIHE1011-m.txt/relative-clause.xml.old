@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIHE1011-m.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='865' end='874' features='rc;finnish;fin-1;male;zero;adjunct-r;in-adjunct;dir-object-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='2733' end='2738' features='rc;finnish;fin-1;male;wh-word;which;adjunct-r;in-adjunct;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

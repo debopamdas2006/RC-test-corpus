@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIJO1003-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='9' start='291' end='296' features='other-constructions;it-cleft;finnish' state='active'/>
+      <segment id='10' start='545' end='550' features='other-constructions;relative-there;finnish' state='active'/>
+      <segment id='1' start='809' end='813' features='other-constructions;it-cleft;finnish' state='active'/>
+      <segment id='2' start='1278' end='1282' features='other-constructions;so;finnish;so-that' state='active'/>
+      <segment id='3' start='1795' end='1799' features='other-constructions;so;finnish;so-that' state='active'/>
+      <segment id='4' start='2342' end='2346' features='other-constructions;so;finnish;so-that' state='active'/>
+      <segment id='12' start='3460' end='3463' features='other-constructions;relative-there;finnish' state='active'/>
+      <segment id='5' start='3978' end='3982' features='other-constructions;so;finnish;so-that' state='active'/>
+      <segment id='11' start='4264' end='4269' features='other-constructions;relative-there;finnish' state='active'/>
+      <segment id='6' start='4466' end='4470' features='other-constructions;so;finnish;so-that' state='active'/>
+      <segment id='13' start='4919' end='4922' features='other-constructions;relative-there;finnish' state='active'/>
+      <segment id='7' start='5435' end='5440' features='other-constructions;relative-there;finnish' state='active'/>
+      <segment id='8' start='5507' end='5512' features='other-constructions;relative-there;finnish' state='active'/>
+    </segments>
+</document>

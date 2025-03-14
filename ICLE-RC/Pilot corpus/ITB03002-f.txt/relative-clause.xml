@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/ITB03002-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='387' end='392' features='rc;italian;ita-1;female;wh-word;which;direct-object-r;dir-obj-head-n;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='458' end='462' features='rc;italian;ita-1;female;that;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='1430' end='1433' features='rc;italian;ita-1;female;wh-word;who;adjunct-r;in-adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='1474' end='1477' features='rc;italian;ita-1;female;wh-word;who;adjunct-r;in-adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='1781' end='1784' features='rc;italian;ita-1;female;wh-word;who;adjunct-r;adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='1958' end='1961' features='rc;italian;ita-1;female;wh-word;who;subject-r;subj-head-n;subject-m;suplementary;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='7' start='2123' end='2128' features='rc;italian;ita-1;female;wh-word;where;adjunct-r;adjunct;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='8' start='2693' end='2696' features='rc;italian;ita-1;female;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='9' start='2964' end='2974' features='rc;italian;ita-1;female;zero;adjunct-r;in-adjunct;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='10' start='3049' end='3052' features='rc;italian;ita-1;female;wh-word;who;adjunct-r;in-adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='11' start='3902' end='3907' features='rc;italian;ita-1;female;wh-word;which;subject-r;subj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='12' start='4303' end='4307' features='rc;italian;ita-1;female;wh-word;when;adjunct-r;adjunct;adjunct-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='13' start='4427' end='4430' features='rc;italian;ita-1;female;wh-word;who;predicate-complement-r;pred-comp-np;in-pred-comp-np-comp;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='14' start='4536' end='4540' features='rc;italian;ita-1;female;that;adjunct-r;in-adjunct;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='15' start='4707' end='4714' features='rc;italian;ita-1;female;zero;adjunct-r;in-adjunct;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='16' start='4884' end='4893' features='rc;italian;ita-1;female;zero;direct-object-r;dir-obj-head-n;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

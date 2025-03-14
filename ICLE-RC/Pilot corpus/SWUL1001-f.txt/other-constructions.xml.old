@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/SWUL1001-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='470' end='474' features='other-constructions;fused-relatives;swedish;fused-non-how' state='active'/>
+      <segment id='2' start='1659' end='1662' features='other-constructions;swedish;fused-relatives;fused-how' state='active'/>
+    </segments>
+</document>

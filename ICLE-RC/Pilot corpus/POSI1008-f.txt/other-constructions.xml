@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/POSI1008-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='254' end='259' features='other-constructions;polish;relative-there' state='active'/>
+      <segment id='2' start='1004' end='1007' features='other-constructions;polish;relative-there' state='active'/>
+      <segment id='3' start='1332' end='1335' features='other-constructions;polish;relative-there' state='active'/>
+      <segment id='4' start='2389' end='2394' features='other-constructions;polish;relative-there' state='active'/>
+      <segment id='5' start='2506' end='2511' features='other-constructions;polish;relative-there' state='active'/>
+    </segments>
+</document>

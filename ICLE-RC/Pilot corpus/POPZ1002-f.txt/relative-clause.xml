@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/POPZ1002-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='2342' end='2345' features='rc;polish;pol-2;female;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='2364' end='2367' features='rc;polish;pol-2;female;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='2401' end='2404' features='rc;polish;pol-2;female;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='2916' end='2919' features='rc;polish;pol-2;female;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='3185' end='3190' features='rc;polish;pol-2;female;wh-word;which;clause-r;subject-m;suplementary;proposition;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='3847' end='3852' features='rc;polish;pol-2;female;wh-word;which;direct-object-r;in-dir-obj-comp;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='7' start='4282' end='4286' features='rc;polish;pol-2;female;that;subject-m;suplementary;entity;non-human;embed-no;extrapose-no;subject-r;in-subj-comp' state='active'/>
+    </segments>
+</document>

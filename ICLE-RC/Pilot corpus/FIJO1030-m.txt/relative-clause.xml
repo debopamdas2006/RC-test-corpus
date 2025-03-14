@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIJO1030-m.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='1168' end='1190' features='rc;finnish;fin-2;male;zero;direct-object-r;dir-obj-head-n;integrated;abstract-entity;embed-no;extrapose-no;dir-obj-m' state='active'/>
+      <segment id='2' start='1575' end='1590' features='rc;finnish;fin-2;male;zero;direct-object-r;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no;dir-obj-head-n' state='active'/>
+      <segment id='3' start='1681' end='1684' features='rc;finnish;fin-2;male;wh-word;how;direct-object-r;dir-obj-head-n;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='2271' end='2276' features='rc;finnish;fin-2;male;wh-word;which;subject-m;integrated;abstract-entity;embed-no;extrapose-no;subject-r;subj-head-n' state='active'/>
+      <segment id='5' start='2405' end='2408' features='rc;finnish;fin-2;male;wh-word;who;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;suplementary;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='2431' end='2434' features='rc;finnish;fin-2;male;wh-word;who;direct-object-r;dir-obj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='7' start='2663' end='2708' features='rc;finnish;fin-2;male;zero;predicate-complement-r;pred-comp-np;pred-comp-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='8' start='2738' end='2743' features='rc;finnish;fin-2;male;wh-word;which;subject-m;suplementary;abstract-entity;embed-no;extrapose-no;predicate-complement-r;pred-comp-np;pred-comp-head-n' state='active'/>
+      <segment id='9' start='3127' end='3133' features='rc;finnish;fin-2;male;zero;predicate-complement-r;pred-comp-np;pred-comp-head-n;dir-obj-m;unsure;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='10' start='4117' end='4122' features='rc;finnish;fin-2;male;wh-word;which;direct-object-r;dir-obj-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='11' start='5148' end='5163' features='rc;finnish;fin-2;male;zero;direct-object-r;dir-obj-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='12' start='5495' end='5500' features='rc;finnish;fin-2;male;wh-word;which;adjunct-r;in-adjunct;integrated;abstract-entity;embed-no;extrapose-no;adjunct-m' state='active'/>
+      <segment id='13' start='5961' end='5964' features='rc;finnish;fin-2;male;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='14' start='6724' end='6729' features='rc;finnish;fin-2;male;wh-word;which;direct-object-r;dir-obj-head-n;suplementary;abstract-entity;embed-no;extrapose-no;adjunct-m' state='active'/>
+      <segment id='15' start='6856' end='6861' features='rc;finnish;fin-2;male;wh-word;which;direct-object-r;in-dir-obj-comp;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='16' start='6935' end='6939' features='rc;finnish;fin-2;male;that;direct-object-r;dir-obj-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='17' start='7300' end='7311' features='rc;finnish;fin-2;male;zero;predicate-complement-r;pred-comp-np;pred-comp-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='18' start='7494' end='7499' features='rc;finnish;fin-2;male;wh-word;which;adjunct-r;in-adjunct;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='19' start='7578' end='7583' features='rc;finnish;fin-2;male;wh-word;which;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;abstract-entity;embed-no;extrapose-no;unsure' state='active'/>
+    </segments>
+</document>

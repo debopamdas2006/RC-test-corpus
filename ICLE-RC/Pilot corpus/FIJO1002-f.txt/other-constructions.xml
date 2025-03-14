@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIJO1002-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='248' end='252' features='other-constructions;relative-there;finnish' state='active'/>
+      <segment id='2' start='765' end='769' features='other-constructions;it-cleft;finnish' state='active'/>
+      <segment id='3' start='1265' end='1269' features='other-constructions;it-cleft;finnish' state='active'/>
+      <segment id='4' start='1647' end='1651' features='other-constructions;it-cleft;finnish' state='active'/>
+      <segment id='7' start='1763' end='1767' features='other-constructions;it-cleft;finnish' state='active'/>
+      <segment id='5' start='2243' end='2247' features='other-constructions;relative-there;finnish' state='active'/>
+      <segment id='6' start='5113' end='5117' features='other-constructions;pseudo-cleft;finnish' state='active'/>
+    </segments>
+</document>

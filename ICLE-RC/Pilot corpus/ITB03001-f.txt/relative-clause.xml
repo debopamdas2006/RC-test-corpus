@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/ITB03001-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='973' end='978' features='rc;italian;ita-1;female;wh-word;which;clause-r;subject-m;suplementary;proposition;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='1030' end='1040' features='rc;italian;ita-1;female;zero;adjunct-r;in-adjunct;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='1137' end='1141' features='rc;italian;ita-1;female;that;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;suplementary;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='1565' end='1569' features='rc;italian;ita-1;female;that;adjunct-r;in-adjunct;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='3197' end='3201' features='rc;italian;ita-1;female;that;direct-object-r;dir-obj-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

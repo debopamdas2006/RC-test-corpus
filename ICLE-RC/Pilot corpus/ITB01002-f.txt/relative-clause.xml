@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/ITB01002-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='433' end='438' features='rc;italian;ita-1;female;wh-word;which;predicate-complement-r;pred-comp-np;pred-comp-head-n;adjunct-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='532' end='537' features='rc;italian;ita-1;female;wh-word;which;adjunct-r;in-adjunct;adjunct-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='609' end='612' features='rc;italian;ita-1;female;wh-word;who;adjunct-r;in-adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='1296' end='1301' features='rc;italian;ita-1;female;wh-word;which;adjunct-r;adjunct;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='1350' end='1355' features='rc;italian;ita-1;female;wh-word;which;subject-r;subj-head-n;adjunct-m;suplementary;abstract-entity;embed-no;extrapose-yes' state='active'/>
+      <segment id='6' start='1460' end='1465' features='rc;italian;ita-1;female;wh-word;which;subject-r;subj-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='7' start='1588' end='1593' features='rc;italian;ita-1;female;wh-word;which;adjunct-r;in-adjunct;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='8' start='1732' end='1736' features='rc;italian;ita-1;female;that;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='9' start='1878' end='1882' features='rc;italian;ita-1;female;that;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

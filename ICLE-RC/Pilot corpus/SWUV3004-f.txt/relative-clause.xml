@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/SWUV3004-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='55' end='58' features='rc;swedish;swe-3;female;wh-word;who;subject-r;subj-head-n;subject-m;suplementary;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='957' end='961' features='rc;swedish;swe-3;female;wh-word;when;adjunct-m;integrated;abstract-entity;embed-no;extrapose-yes;subject-r;subj-head-n' state='active'/>
+      <segment id='3' start='1133' end='1136' features='rc;swedish;swe-3;female;wh-word;who;adjunct-r;in-adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

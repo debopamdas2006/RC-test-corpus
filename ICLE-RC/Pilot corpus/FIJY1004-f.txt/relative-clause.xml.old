@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/FIJY1004-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='120' end='127' features='rc;finnish;fin-3;female;zero;adjunct-r;in-adjunct;adjunct-m;integrated;abstract-entity;embed-no;extrapose-no;adjunct-other-m' state='active'/>
+      <segment id='2' start='194' end='214' features='rc;finnish;fin-3;female;zero;predicate-complement-r;pred-comp-np;pred-comp-head-n;dir-obj-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='423' end='427' features='rc;finnish;fin-3;female;that;direct-object-r;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no;dir-obj-head-n' state='active'/>
+      <segment id='4' start='778' end='781' features='rc;finnish;fin-3;female;wh-word;who;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='942' end='948' features='rc;finnish;fin-3;female;zero;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no;adjunct-r;in-adjunct' state='active'/>
+      <segment id='6' start='1433' end='1449' features='rc;finnish;fin-3;female;zero;predicate-complement-r;pred-comp-np;pred-comp-head-n;dir-obj-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

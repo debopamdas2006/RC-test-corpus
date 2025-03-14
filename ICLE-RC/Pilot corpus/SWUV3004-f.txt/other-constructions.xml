@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/SWUV3004-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='1101' end='1106' features='other-constructions;fused-relative;swedish;fused-non-how' state='active'/>
+      <segment id='4' start='1830' end='1832' features='other-constructions;swedish;as;same-as' state='active'/>
+      <segment id='1' start='2030' end='2035' features='other-constructions;it-cleft;swedish' state='active'/>
+      <segment id='2' start='2085' end='2090' features='other-constructions;it-cleft;swedish' state='active'/>
+    </segments>
+</document>

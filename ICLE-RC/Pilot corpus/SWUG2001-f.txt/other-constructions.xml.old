@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/SWUG2001-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='340' end='343' features='other-constructions;swedish;fused-relatives;fused-how' state='active'/>
+      <segment id='5' start='1146' end='1148' features='other-constructions;swedish;as;same-as' state='active'/>
+      <segment id='2' start='2520' end='2529' features='other-constructions;fused-relatives;swedish;fused-non-how' state='active'/>
+      <segment id='1' start='3300' end='3303' features='other-constructions;swedish;fused-relatives;fused-how' state='active'/>
+    </segments>
+</document>

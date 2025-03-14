@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/SWUG2002-f.txt</textfile>
+    <lang>english</lang>
+    <complete>50%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='559' end='563' features='other-constructions;pseudo-cleft;swedish' state='active'/>
+      <segment id='3' start='1803' end='1807' features='other-constructions;pseudo-cleft' state='active'/>
+    </segments>
+</document>

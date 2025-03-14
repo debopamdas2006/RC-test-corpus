@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/ITTO1003-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='214' end='219' features='rc;italian;ita-3;female;wh-word;which;adjunct-r;in-adjunct;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='609' end='613' features='rc;italian;ita-3;female;that;direct-object-r;in-dir-obj-comp;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='1253' end='1256' features='rc;italian;ita-3;female;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='2277' end='2288' features='rc;italian;ita-3;female;zero;adjunct-r;in-adjunct;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='2377' end='2380' features='rc;italian;ita-3;female;wh-word;who;subject-r;subj-head-n;subject-m;suplementary;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='2931' end='2936' features='rc;italian;ita-3;female;wh-word;where;predicate-complement-r;pred-comp-adjp;in-pred-comp-adjp-comp;adjunct-m;suplementary;entity;non-human;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

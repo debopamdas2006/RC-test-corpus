@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/SWUV3006-m.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='440' end='443' features='rc;swedish;swe-3;male;wh-word;who;adjunct-r;in-adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='966' end='971' features='rc;swedish;swe-3;male;wh-word;which;clause-r;subject-m;suplementary;embed-no;proposition;extrapose-no' state='active'/>
+      <segment id='3' start='1673' end='1682' features='rc;swedish;swe-3;male;zero;adjunct-r;in-adjunct;integrated;abstract-entity;embed-no;extrapose-no;pred-comp-m;in-pred-comp-m' state='active' comment='The most suitable category for marker-function iis pred-comp-m --&gt; in-pred-comp-m'/>
+      <segment id='4' start='1735' end='1744' features='rc;swedish;swe-3;male;zero;adjunct-r;in-adjunct;integrated;abstract-entity;embed-yes;extrapose-no;subject-m' state='active'/>
+      <segment id='5' start='1783' end='1787' features='rc;swedish;swe-3;male;that;direct-object-r;dir-obj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='2539' end='2543' features='rc;swedish;swe-3;male;that;adjunct-r;in-adjunct;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='7' start='2760' end='2766' features='rc;swedish;swe-3;male;zero;indirect-object-r;indir-obj-head-n;dir-object-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='8' start='2951' end='2964' features='rc;swedish;swe-3;male;zero;direct-object-r;dir-obj-head-n;dir-object-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='9' start='3103' end='3107' features='rc;swedish;swe-3;male;that;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='10' start='3657' end='3661' features='rc;swedish;swe-3;male;that;adjunct-r;in-adjunct;dir-object-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='11' start='3891' end='3895' features='rc;swedish;swe-3;male;that;adjunct-r;in-adjunct;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

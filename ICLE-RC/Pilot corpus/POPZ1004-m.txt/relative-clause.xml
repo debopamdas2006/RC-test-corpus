@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/POPZ1004-m.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='267' end='270' features='rc;polish;pol-2;male;wh-word;who;adjunct-r;in-adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='429' end='432' features='rc;polish;pol-2;male;wh-word;who;direct-object-r;in-dir-obj-comp;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='670' end='674' features='rc;polish;pol-2;male;that;subject-r;subj-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='751' end='754' features='rc;polish;pol-2;male;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='1157' end='1162' features='rc;polish;pol-2;male;wh-word;which;adjunct-r;in-adjunct;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='1501' end='1504' features='rc;polish;pol-2;male;wh-word;who;adjunct-r;in-adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='7' start='1895' end='1898' features='rc;polish;pol-2;male;wh-word;who;adjunct-r;in-adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='8' start='2901' end='2904' features='rc;polish;pol-2;male;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='9' start='3353' end='3356' features='rc;polish;pol-2;male;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='10' start='3881' end='3884' features='rc;polish;pol-2;male;zero;predicate-complement-r;pred-comp-np;pred-comp-head-n;integrated;entity;non-human;embed-no;extrapose-no;dir-obj-m' state='active'/>
+      <segment id='11' start='4022' end='4025' features='rc;polish;pol-2;male;wh-word;who;adjunct-r;in-adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='12' start='4426' end='4429' features='rc;polish;pol-2;male;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

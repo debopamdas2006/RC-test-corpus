@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/SWUL1005-m.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='231' end='234' features='rc;swedish;swe-2;male;wh-word;who;adjunct-r;adjunct;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='338' end='342' features='rc;swedish;swe-2;male;that;direct-object-r;dir-obj-head-n;dir-object-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='632' end='636' features='rc;swedish;swe-2;male;that;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='1288' end='1291' features='rc;swedish;swe-2;male;wh-word;who;adjunct-r;in-adjunct;subject-m;suplementary;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='2162' end='2167' features='rc;swedish;swe-2;male;wh-word;which;direct-object-r;dir-obj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='2380' end='2383' features='rc;swedish;swe-2;male;wh-word;who;direct-object-r;dir-obj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/ITB10001-m.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='212' end='216' features='other-constructions;italian;fused-relative;fused-non-how' state='active'/>
+      <segment id='2' start='1131' end='1135' features='other-constructions;italian;relative-there' state='active'/>
+      <segment id='3' start='1193' end='1197' features='other-constructions;italian;it-cleft' state='active'/>
+      <segment id='4' start='1648' end='1652' features='other-constructions;italian;pseudo-cleft' state='active'/>
+      <segment id='5' start='2034' end='2038' features='other-constructions;italian;fused-relative;fused-non-how' state='active'/>
+    </segments>
+</document>

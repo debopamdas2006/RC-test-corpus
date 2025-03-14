@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/POPZ1005-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='614' end='618' features='rc;polish;pol-2;female;that;subject-r;subj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='1631' end='1635' features='rc;polish;pol-2;female;that;subject-r;subj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='1793' end='1798' features='rc;polish;pol-2;female;wh-word;which;direct-object-r;dir-obj-head-n;subject-m;suplementary;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='3334' end='3339' features='rc;polish;pol-2;female;wh-word;which;direct-object-r;dir-obj-head-n;adjunct-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='3685' end='3689' features='rc;polish;pol-2;female;that;direct-object-r;dir-obj-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

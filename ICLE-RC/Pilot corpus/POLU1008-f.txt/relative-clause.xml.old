@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/POLU1008-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='1672' end='1691' features='rc;polish;pol-1;female;zero;predicate-complement-r;pred-comp-np;pred-comp-head-n;dir-object-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='2040' end='2045' features='rc;polish;pol-1;female;wh-word;which;adjunct-r;in-adjunct;subject-m;suplementary;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='2462' end='2467' features='rc;polish;pol-1;female;wh-word;which;subject-r;in-subj-comp;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='2971' end='2979' features='rc;polish;pol-1;female;zero;direct-object-r;dir-obj-head-n;dir-object-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='3314' end='3319' features='rc;polish;pol-1;female;wh-word;which;direct-object-r;dir-obj-head-n;subject-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

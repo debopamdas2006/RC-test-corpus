@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/ITB02002-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='369' end='374' features='rc;italian;ita-1;female;wh-word;where;adjunct-r;in-adjunct;adjunct-m;adjunct-other-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='615' end='620' features='rc;italian;ita-1;female;wh-word;where;direct-object-r;dir-obj-head-n;adjunct-m;adjunct-other-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='707' end='712' features='rc;italian;ita-1;female;wh-word;where;adjunct-r;in-adjunct;adjunct-m;adjunct-other-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='1356' end='1361' features='rc;italian;ita-1;female;wh-word;which;predicate-complement-r;pred-comp-np;in-pred-comp-np-comp;subject-m;suplementary;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='1617' end='1622' features='rc;italian;ita-1;female;wh-word;which;adjunct-r;in-adjunct;subject-m;suplementary;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='1854' end='1859' features='rc;italian;ita-1;female;wh-word;which;direct-object-r;dir-obj-head-n;subject-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='7' start='2335' end='2340' features='rc;italian;ita-1;female;wh-word;whose;predicate-complement-r;pred-comp-np;in-pred-comp-np-comp;gen-subj-det-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='8' start='3050' end='3055' features='rc;italian;ita-1;female;wh-word;where;direct-object-r;dir-obj-head-n;adjunct-m;adjunct-other-m;integrated;entity;non-human;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>

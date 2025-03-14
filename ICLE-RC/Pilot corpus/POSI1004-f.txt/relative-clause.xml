@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Pilot corpus/POSI1004-f.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='169' end='202' features='rc;polish;pol-3;female;zero;subject-r;subj-head-n;dir-obj-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='2' start='663' end='666' features='rc;polish;pol-3;female;wh-word;who;adjunct-r;in-adjunct;subject-m;suplementary;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='3' start='1032' end='1037' features='rc;polish;pol-3;female;wh-word;which;clause-r;subject-m;suplementary;proposition;embed-no;extrapose-no' state='active'/>
+      <segment id='4' start='1072' end='1077' features='rc;polish;pol-3;female;wh-word;whose;direct-object-r;in-dir-obj-comp;gen-subj-det-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='5' start='1418' end='1423' features='rc;polish;pol-3;female;wh-word;which;clause-r;subject-m;suplementary;proposition;embed-no;extrapose-no' state='active'/>
+      <segment id='6' start='1793' end='1798' features='rc;polish;pol-3;female;wh-word;which;predicate-complement-r;pred-comp-np;in-pred-comp-np-comp;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='7' start='2261' end='2266' features='rc;polish;pol-3;female;wh-word;which;clause-r;subject-m;suplementary;proposition;embed-no;extrapose-no' state='active'/>
+      <segment id='8' start='3164' end='3169' features='rc;polish;pol-3;female;wh-word;which;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;suplementary;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='9' start='3225' end='3230' features='rc;polish;pol-3;female;wh-word;which;direct-object-r;dir-obj-head-n;subject-m;suplementary;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='10' start='3282' end='3287' features='rc;polish;pol-3;female;wh-word;which;direct-object-r;dir-obj-head-n;pred-comp-m;in-pred-comp-m;suplementary;entity;non-human;embed-no;extrapose-no' state='active'/>
+      <segment id='11' start='3347' end='3352' features='rc;polish;pol-3;female;wh-word;which;predicate-complement-r;pred-comp-pp;in-pred-comp-pp-comp;adjunct-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='12' start='3394' end='3399' features='rc;polish;pol-3;female;wh-word;which;clause-r;adjunct-m;suplementary;proposition;embed-no;extrapose-no' state='active'/>
+      <segment id='13' start='3611' end='3616' features='rc;polish;pol-3;female;wh-word;which;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='14' start='4217' end='4222' features='rc;polish;pol-3;female;wh-word;which;clause-r;adjunct-m;suplementary;proposition;embed-no;extrapose-no' state='active'/>
+      <segment id='15' start='4230' end='4233' features='rc;polish;pol-3;female;wh-word;who;subject-r;subj-head-n;subject-m;integrated;entity;human;embed-no;extrapose-no' state='active'/>
+      <segment id='16' start='4619' end='4624' features='rc;polish;pol-3;female;wh-word;which;direct-object-r;dir-obj-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='17' start='4697' end='4702' features='rc;polish;pol-3;female;wh-word;which;direct-object-r;in-dir-obj-comp;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='18' start='4780' end='4785' features='rc;polish;pol-3;female;wh-word;which;subject-r;subj-head-n;subject-m;suplementary;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='19' start='4833' end='4838' features='rc;polish;pol-3;female;wh-word;which;predicate-complement-r;pred-comp-np;pred-comp-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='20' start='5316' end='5320' features='rc;polish;pol-3;female;that;subject-r;subj-head-n;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+      <segment id='21' start='5385' end='5389' features='rc;polish;pol-3;female;that;predicate-complement-r;pred-comp-np;in-pred-comp-np-comp;subject-m;integrated;abstract-entity;embed-no;extrapose-no' state='active'/>
+    </segments>
+</document>
